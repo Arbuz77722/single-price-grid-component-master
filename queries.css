@@ -1,0 +1,12 @@
+@media (max-width: 42em) {
+  body {
+    height: auto;
+  }
+  .container {
+    margin: 8rem 4rem;
+  }
+
+  .grid {
+    display: block;
+  }
+}
